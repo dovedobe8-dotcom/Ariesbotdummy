@@ -1,0 +1,12 @@
+__pycache__/
+*.html
+*.pyc
+*.pyo
+.venv/
+poetry.lock
+test.html
+ep.py
+a.py
+dist/
+build/
+*.egg-info/
